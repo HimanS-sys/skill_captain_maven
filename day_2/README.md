@@ -7,3 +7,4 @@
 ## Result: 
 
 > run `mvc -version` 
+<img src="maven-install-verification.png" alt="installation-img" title="mvc-install-verification">
