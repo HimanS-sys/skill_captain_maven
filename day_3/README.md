@@ -5,9 +5,9 @@
 > Create a Java application that calculates the factorial of a given number.
 
 ## Requirements:
-- > The application should take a number as input from the user.
-- > It should calculate the factorial of the input number.
-- > The calculated factorial should be displayed as output.
+> - The application should take a number as input from the user.
+> - It should calculate the factorial of the input number.
+> - The calculated factorial should be displayed as output.
 
 ## Approach 
 > 1. Create a new Maven project using the Maven command provided in the concept section.
